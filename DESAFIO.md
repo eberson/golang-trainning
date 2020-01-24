@@ -30,7 +30,7 @@ do semáforo daquela rua: T = 1 se o semáforo daquela rua abre nos minutos múl
 Imprima uma única linha contendo um único número inteiro, o menor tempo necessário em minutos para que o ônibus saia da cidade ileso. Se for impossível evitar a 
 explosão do ônibus, imprima uma única linha contendo o caractere '*'.
 
-===== RESTRIÇÕES =====
+#### ===== RESTRIÇÕES ===== ####
 
 2 ≤ N ≤ 500
 1 ≤ M ≤ 2000
@@ -39,9 +39,9 @@ explosão do ônibus, imprima uma única linha contendo o caractere '*'.
 pode haver até duas ruas de uma rotatória A para outra B (possivelmente igual a A), mas no caso de haver duas ruas, então numa o semáforo abre nos minutos múltiplos 
 de 3, na outra o semáforo fecha nos minutos múltiplos de 3.
 
-===== EXEMPLOS =====
+#### ===== EXEMPLOS ===== ####
 
-Entrada
+**Entrada**
 6 5 4 7
 0 1 0
 1 2 0
@@ -51,15 +51,15 @@ Entrada
 3 0 0
 5 0 1
             
-Saída
+**Saída**
 8
             
-Entrada
+**Entrada**
 4 0 3 4
 0 1 1
 1 2 0
 2 3 1
 2 0 0
             
-Saída
+**Saída**
 *
