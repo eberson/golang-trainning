@@ -42,6 +42,7 @@ de 3, na outra o semáforo fecha nos minutos múltiplos de 3.
 #### ===== EXEMPLOS ===== ####
 
 **Entrada**
+
 6 5 4 7
 0 1 0
 1 2 0
@@ -52,9 +53,11 @@ de 3, na outra o semáforo fecha nos minutos múltiplos de 3.
 5 0 1
             
 **Saída**
+
 8
             
 **Entrada**
+
 4 0 3 4
 0 1 1
 1 2 0
@@ -62,4 +65,5 @@ de 3, na outra o semáforo fecha nos minutos múltiplos de 3.
 2 0 0
             
 **Saída**
+
 *
