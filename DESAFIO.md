@@ -58,11 +58,11 @@ de 3, na outra o semáforo fecha nos minutos múltiplos de 3.
             
 **Entrada**
 
-4 0 3 4 
-0 1 1 
-1 2 0 
-2 3 1 
-2 0 0 
+4 0 3 4  
+0 1 1  
+1 2 0  
+2 3 1  
+2 0 0  
             
 **Saída**
 *
